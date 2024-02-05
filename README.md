@@ -1,5 +1,6 @@
 # MediaCERN
 
+#### Drafted work plan to carry on between Jan-Sept 2024 at CERN. Working between the [IT department](https://information-technology.web.cern.ch/) and the [Media Lab](https://gitlab.cern.ch/CERNMediaLab) to build an interactive digital exhibition about the evolution of computing in the Data Centre, and a video series for the [Quantum Technology Initiative](https://quantum.cern/). 
 
 - JANUARY 
   - join the section and getting to speed
